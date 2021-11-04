@@ -6,7 +6,6 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import CssBaseline from '@mui/material/CssBaseline';
 import Grid from '@mui/material/Grid';
-import StarIcon from '@mui/icons-material/StarBorder';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
@@ -18,7 +17,6 @@ import Pencil from '@mui/icons-material/CreateOutlined';
 
 import Icon from '@mui/material/IconButton';
 import HomeWorkIcon from '@mui/icons-material/HomeWork';
-import WaterfallChartIcon from '@mui/icons-material/WaterfallChart';
 import CleanHandsOutlinedIcon from '@mui/icons-material/CleanHandsOutlined';
 import EmojiObjectsOutlinedIcon from '@mui/icons-material/EmojiObjectsOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
@@ -26,18 +24,10 @@ import PermDataSettingOutlinedIcon from '@mui/icons-material/PermDataSettingOutl
 import BlurCircularOutlinedIcon from '@mui/icons-material/BlurCircularOutlined';
 import CheckCircleOutlinedIcon from '@mui/icons-material/CheckCircleOutlined';
 
-import MenuItem from '@mui/material/MenuItem';
-import Select from '@mui/material/Select';
-import OutlinedInput from '@mui/material/OutlinedInput';
-
 import { styled } from '@mui/material/styles';
-import Stack from '@mui/material/Stack';
-import { purple } from '@mui/material/colors';
 
 import Image from '../Images/Image.jpg';
 import Logo from '../Images/Logo.png';
-
-import CustomButton from './CustomButton';
 
 
 const styles = {
