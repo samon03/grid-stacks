@@ -2,6 +2,7 @@ import React from 'react';
 import classes from './Modal.module.css';
 import Backdrop from '../Backdrop/Backdrop';
 import Aux from '../Auxiliry';
+import Benefits from './../../Benefits';
 
 const modal = (props) => {
     return (
@@ -12,7 +13,8 @@ const modal = (props) => {
                     transform: props.show ? 'translateY(0)' : 'translateY(-100vh)',
                     opacity: props.show ? '1' : '0'
                 }}>
-                    hello
+                
+                <Benefits/>
             </div>
         </Aux>
         
