@@ -197,7 +197,7 @@ const BootstrapIcon = styled(Icon)({
 });
 
 
-function Home() {
+const Home = (props) => {
 
   const [alignment, setAlignment] = useState("center");
 
@@ -462,7 +462,7 @@ function Home() {
                         <BootstrapButton3 variant="contained" size="medium" disableRipple sx={{mr: 2}}>
                           Skip
                         </BootstrapButton3>
-                        <BootstrapButton4 variant="contained" size="medium" disableRipple >
+                        <BootstrapButton4 onClick={props.add} variant="contained" size="medium" disableRipple >
                           Save 
                         </BootstrapButton4>
                         </div>
