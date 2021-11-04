@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/grid-stacks/static/css/main.52da92b1.chunk.css",
+    "main.js": "/grid-stacks/static/js/main.941a723b.chunk.js",
+    "main.js.map": "/grid-stacks/static/js/main.941a723b.chunk.js.map",
+    "runtime-main.js": "/grid-stacks/static/js/runtime-main.fe52d683.js",
+    "runtime-main.js.map": "/grid-stacks/static/js/runtime-main.fe52d683.js.map",
+    "static/js/2.71bf6426.chunk.js": "/grid-stacks/static/js/2.71bf6426.chunk.js",
+    "static/js/2.71bf6426.chunk.js.map": "/grid-stacks/static/js/2.71bf6426.chunk.js.map",
+    "static/js/3.934169ae.chunk.js": "/grid-stacks/static/js/3.934169ae.chunk.js",
+    "static/js/3.934169ae.chunk.js.map": "/grid-stacks/static/js/3.934169ae.chunk.js.map",
+    "index.html": "/grid-stacks/index.html",
+    "static/css/main.52da92b1.chunk.css.map": "/grid-stacks/static/css/main.52da92b1.chunk.css.map",
+    "static/js/2.71bf6426.chunk.js.LICENSE.txt": "/grid-stacks/static/js/2.71bf6426.chunk.js.LICENSE.txt",
+    "static/media/Image.6fd8d3db.jpg": "/grid-stacks/static/media/Image.6fd8d3db.jpg",
+    "static/media/Logo.f8dd75f6.png": "/grid-stacks/static/media/Logo.f8dd75f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe52d683.js",
+    "static/js/2.71bf6426.chunk.js",
+    "static/css/main.52da92b1.chunk.css",
+    "static/js/main.941a723b.chunk.js"
+  ]
+}
